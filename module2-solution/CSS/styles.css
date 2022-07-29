@@ -19,9 +19,13 @@
   }
   .heading{
    
+    text-align: left;
     border: 1px solid black;
     background-color: #A52A2A;
-
+    width: 400px;
+    
+    font-family: Helvetica;
+    color: white;
     padding: 15px;
     margin: 10px;
   }
