@@ -1,0 +1,29 @@
+h1 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+div{
+  background-color: rgb(139, 150, 160);
+}
+br{
+  color: blue;
+}
+p{
+  text-align: right;
+}
+span{
+  border: 1px solid black;
+  padding: 2px 10px 2px 10px;
+  font-size: large;
+  font-weight: bold;
+}
+.chicken{
+  background-color: rgb(199, 115, 143);
+}
+.beef{
+  background-color: rgb(205, 6, 6);
+  color: rgb(255, 255, 255);
+}
+.sushi{
+  background-color:rgb(214, 214, 2) ;
+}
