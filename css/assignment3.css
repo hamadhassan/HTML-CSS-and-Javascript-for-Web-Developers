@@ -1,0 +1,12 @@
+h1{
+    font-size: 200%;
+    background-color: rgb(184, 196, 209);
+}
+h2,h3{
+    text-align: center ;
+}
+.chicken,.beef,.sushi {
+    background-color: rgb(184, 196, 209);
+    margin:0px 10px 10px 10px;
+    padding: 10px;
+}
